@@ -1,0 +1,310 @@
+/*common start*/
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+/*common end*/
+
+/*banner start*/
+.banner{
+ background-image: url(../images/banner.jpg); 
+ height: 600px; 
+ background-position: center; 
+ background-repeat: no-repeat; 
+ background-size: cover; 
+ }
+ .b_item{
+  padding-top: 300px;
+  text-align: center;
+  text-transform: uppercase;
+ }
+ .b_item h1{
+ padding: 10px 0 10px;
+  font-size:32px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: white;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+
+  
+ }
+ .b_button{
+	 color: white ;
+	 order-radius: none;
+	 text-transform: uppercase;
+ }
+/*banner end*/
+/*header start*/
+.header{
+	background-color: #252e30;
+	margin-bottom: 100px;
+}
+.c_nav{}
+.logo{}
+.menu{
+	color: white;
+}
+.menu ul li a{
+	color: white;
+	font-size: 15px;
+	font-weight: 700;
+	padding: 0 16px !important;
+
+}
+.menu ul li a:hover{
+	color: #2ecc71 !important;
+
+}
+
+/*header start*/
+/*Thinking start*/
+.think{
+	margin-bottom: 80px;
+}
+.c_h2{
+
+}
+.c_h2 h2{
+	padding-bottom: 22px;
+	font-size: 29px;;
+	font-weight: 700;
+	text-transform: uppercase;
+
+}
+.c_h2 p{
+    line-height: 27px;
+}
+
+/*Thinking end*/
+
+/*about start*/
+.about{
+	background-color: #f2f2f1;
+	margin-bottom: 50px;
+}
+.ab_p{
+	     padding: 50px 15px 0;
+}
+.a_img{}
+.a_img img{
+	/*height: 610px;*/
+}
+.ab_1{
+	margin-top: 30px;
+	padding: 0 20px;
+}
+
+.ab_1 h4{
+  font-weight: bold;
+color: #2ecc71;
+
+}
+u{
+ 
+
+}
+.ab_1 p{}
+
+/*about end*/
+/*skills start*/
+.skill_bar{
+	margin-bottom: 80px;
+	 margin-top: 100px;
+}
+.s_h2{
+	padding-right: 20px;
+}
+.button{
+	margin-top: 20px;
+	padding: 5px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #2ecc71;
+	background-color: white;
+    border-color: #2ecc71;
+}
+.percentage{
+   padding-left: 20px;
+       padding-top: 63px;
+}
+
+.c_h3{
+	font-weight: bold;
+	padding-bottom: 4px;
+	
+}
+
+.s_item {
+  width: 100%;
+  background-color: #ddd;
+  margin-bottom: 25px;
+
+}
+
+.skills {
+  text-align: left;
+
+
+}
+
+.html {
+	text-align: right;
+	width: 90%; 
+	background-color: #2ecc71;
+}
+.css {
+	text-align: right;
+	width: 80%; 
+	background-color: #2ecc71;
+}
+.js {
+	text-align: right;
+	width: 90%;
+	 background-color: #2ecc71;
+	}
+.php {
+	text-align: right;
+	width: 70%; 
+	background-color: #2ecc71;
+}
+/*skills end*/
+/*resume start*/
+.resume{
+	background-color: #f2f2f1;
+	padding: 80px 0;
+}
+.r_h2{
+	text-align: center;
+}
+
+/*resume end*/
+/*edu start*/
+.education{
+	margin: 100px 0;
+}
+.only_h2{
+	
+}
+.only_p{
+	padding-right: 20px;
+}
+.c_h4{}
+.c_h4 h4{
+	font-weight: bold;
+	
+}
+.c_h4{
+	font-weight: 500;
+	line-height: 24px;
+
+}
+.c_h4 span{
+	font-size: 14px;
+	font-weight: bold;
+	background-color:#2ecc71;
+	color: white;
+	padding: 5px 8px;
+}
+.edu_p {
+	padding-top: 32px;
+	margin-top: 32px;
+	border-top: 1px solid gray;
+
+}
+.e_item{
+	padding-bottom: 55px;
+}
+
+
+/*edu end*/
+.bor{
+	/*padding-top: 15px;*/
+	margin-top: 50px;
+	border-top: 1px solid gray;
+}
+/*last*/
+.last_i{
+	padding-top: 55px;
+}
+/* Portfolio start*/
+ .Portfolio{
+ 	padding: 80px 0;
+ 	background-color:#f2f2f1 ;
+
+ }
+ .port_img{
+ 	margin-top: 40px;
+ }
+ .port_img img{
+ 	padding-bottom: 30px;
+ }
+/* Portfolio end*/
+
+/*contact start*/
+
+ .footer{
+ 	padding: 80px 0;
+ 	background-color: #4b5456;
+ }
+ .f_h2{
+ 	padding-right: 20px;
+ 	color: white;
+
+ }
+ .f_h2,.p1{
+ 	padding-bottom: 15px;
+ }
+ .f_h2,.p2{
+ 	padding-bottom: 15px;
+ }
+ .f_from{
+ 	padding-left: 20px;
+ 	padding-top: 25px;
+ 	color: white;
+ 	background-color: ;
+ }
+ .f_from span{
+ 	color: #c50105; 
+ }
+ .f_button{
+ 	padding: 8px 15px;
+ 	text-transform: uppercase;
+ 	background-color: #252e30;
+ 	color: white;
+ 	border: none;
+ }
+ .name_f{
+ 	padding-bottom: 25px;
+ }
+ .E_address{
+ 	padding-bottom: 12px;
+ }
+ .Eddress{
+    padding-bottom: 15px
+ }
+
+/*contact end*/
+/*copy_r start*/
+.copy_r{
+	background-color: #252e30;
+	 padding: 35px 0;
+}
+.cp_item{
+}
+.cp_item p{
+	color: #a5a5a5;
+}
+.icon{
+	    padding: 10px 48px 0;
+}
+.icon a i{
+	font-size: 27px;
+	font-weight: 50;
+	color: #a5a5a5;
+	padding: 3px;
+
+
+}
+/*copy_r end*/
